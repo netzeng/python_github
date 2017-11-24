@@ -1,1 +1,1 @@
-"vulns" 
+vulns
